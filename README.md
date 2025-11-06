@@ -1,6 +1,8 @@
 # Hack-the-Box-Projects
+
 These are all the HTB porjects completed to date
-The documents attched are all documented step by step works I did to complete each project
+- The documents attched are a select few of the projects to show all the step by step works I did to complete each project
+- All of them are completed to this level
 
 - <b>Tier 0</b>
   - Meow
